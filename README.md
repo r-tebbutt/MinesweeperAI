@@ -1,1 +1,1 @@
-# MinesweeperAI
+# minesweeper_ai
